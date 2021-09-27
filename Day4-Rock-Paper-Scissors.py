@@ -1,3 +1,16 @@
+
+#A simple game of RPS that takes and input and compares it to a random integer between 0-2
+
+
+
+
+
+
+
+
+
+
+
 rock = '''
     _______
 ---'   ____)
